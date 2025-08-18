@@ -1,9 +1,9 @@
 # Advanced ToDo List
 
 Advanced ToDo List:
-create task
-search task
-drag-and-drop
+create task,
+search task,
+drag-and-drop,
 offline (localForage) working
 
 ## 🚀 Demo
