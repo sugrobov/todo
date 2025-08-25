@@ -8,7 +8,7 @@ offline (localForage) working
 
 ## 🚀 Demo
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](advtdl.netlify.app)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://advtdl.netlify.app/)
 
 
 ## 📦 Install
